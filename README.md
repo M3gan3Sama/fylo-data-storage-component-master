@@ -40,5 +40,35 @@ This challenge is to making a data storage layout and make it responsive.
 
 ### Links
 
-- Solution URL: [You can find My solution here](https://github.com/M3gan3Sama/social-proof-section-master.git)
-- Live Site URL: [This is my Live site for This challenge](https://m3gan3sama.github.io/social-proof-section-master/)
+- Solution URL: [You can find My solution here](https://github.com/M3gan3Sama/fylo-data-storage-component-master.git)
+- Live Site URL: [This is my Live site for This challenge](https://m3gan3sama.github.io/fylo-data-storage-component-master/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS
+- CSS Grid
+- Flexbox
+- Media query
+
+### What I learned
+
+I learned useing    ::after   for making custom shape in this progect
+
+## Table of contents
+
+- [Frontend Mentor - Fylo data storage component](#frontend-mentor---fylo-data-storage-component)
+  - [Welcome! 👋](#welcome-)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+      - [Desktop preview:](#desktop-preview)
+      - [Tablet preview:](#tablet-preview)
+      - [Mobile preview:](#mobile-preview)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+  - [Table of contents](#table-of-contents)
