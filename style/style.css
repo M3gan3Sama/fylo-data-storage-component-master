@@ -95,7 +95,6 @@ ul > li {
 
 .progress-bar-fg {
   position: relative;
-  display: block;
   width: 75%;
   height: 100%;
   background-image: linear-gradient(
@@ -104,17 +103,18 @@ ul > li {
     hsl(335, 100%, 65%)
   );
   border-radius: 1rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  place-items: center;
 }
 
 .circle {
-  position: absolute;
   width: 1.2rem;
   height: 1.2rem;
   border-radius: 50%;
   background-color: white;
-  right: 0;
-  top: 0;
-  margin: 0.15rem;
+  margin-inline-end: 0.2rem;
+  grid-column: 2 / -1;
 }
 
 .number {
