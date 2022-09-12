@@ -55,7 +55,7 @@ This challenge is to making a data storage layout and make it responsive.
 
 ### What I learned
 
-I learned useing    ::after   for making custom shape in this progect
+I learned useing ```::after``` for making custom shape in this progect
 
 ## Table of contents
 
